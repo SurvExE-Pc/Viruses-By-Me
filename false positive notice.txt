@@ -1,0 +1,1 @@
+all virus threats for the .exe are false positive its just a exe with the commands to kill the spam boxes
